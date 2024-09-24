@@ -2,5 +2,6 @@
     "New trigger.json": 0, 
     "UI.folder": 1, 
     "初始化关卡怪物属性.json": 3, 
-    "自定义功能.folder": 2
+    "自定义功能.folder": 2, 
+    "装备自定义属性功能.folder": 4
 }
