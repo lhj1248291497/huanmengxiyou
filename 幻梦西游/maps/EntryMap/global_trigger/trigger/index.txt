@@ -1,5 +1,6 @@
 {
     "New trigger.json": 0, 
     "UI.folder": 1, 
+    "最近导入_触发器.folder": 3, 
     "自定义功能.folder": 2
 }
