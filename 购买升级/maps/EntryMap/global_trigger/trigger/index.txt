@@ -1,5 +1,6 @@
 {
     "New trigger.json": 1, 
     "UI.folder": 2, 
-    "第七格物品删除.json": 0
+    "第七格物品删除.json": 0, 
+    "驱蚊器21.json": 3
 }
