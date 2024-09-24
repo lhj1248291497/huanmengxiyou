@@ -1005,7 +1005,7 @@
                                                                                                 {
                                                                                                     "arg_type": 100116, 
                                                                                                     "args_list": [
-                                                                                                        134237278
+                                                                                                        134233243
                                                                                                     ], 
                                                                                                     "sub_type": 1
                                                                                                 }, 
@@ -1105,7 +1105,7 @@
                                                                                                 {
                                                                                                     "arg_type": 100116, 
                                                                                                     "args_list": [
-                                                                                                        134224076
+                                                                                                        134236912
                                                                                                     ], 
                                                                                                     "sub_type": 1
                                                                                                 }, 
@@ -2771,7 +2771,7 @@
     "p_trigger_id": null, 
     "trigger_id": 1230479423, 
     "trigger_name": "练功房0.1s事件", 
-    "valid": false, 
+    "valid": true, 
     "var_data": [
         {
             "FLOAT": {}, 

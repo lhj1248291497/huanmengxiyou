@@ -1,0 +1,2310 @@
+{
+    "_custom_": true, 
+    "_ref_": 134245038, 
+    "attach_models": [
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 103014, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -2.2212610244750977, 
+                    0.0, 
+                    -5.975726509094237
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.45, 
+                    0.45, 
+                    0.45
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207095, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -2.196907051971981, 
+                    0.0, 
+                    -5.954270744323729
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.5, 
+                    0.5, 
+                    0.5
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207094, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -4.024267682007381, 
+                    0.0, 
+                    -5.954280281066893
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.44999998807907104, 
+                    0.44999998807907104, 
+                    0.44999998807907104
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207094, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -0.5847873772893637, 
+                    0.0, 
+                    -5.954280281066893
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.44999998807907104, 
+                    0.44999998807907104, 
+                    0.44999998807907104
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207095, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -5.744987496307918, 
+                    0.0, 
+                    -5.954280281066893
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.5, 
+                    0.5, 
+                    0.5
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207095, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    1.351212552615574, 
+                    0.0, 
+                    -5.954280281066893
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.5, 
+                    0.5, 
+                    0.5
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207094, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    3.0736527357782633, 
+                    0.0, 
+                    -6.013762855529784
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.44999998807907104, 
+                    0.44999998807907104, 
+                    0.44999998807907104
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207094, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -7.422742852142879, 
+                    0.0, 
+                    -6.044930839538573
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.44999998807907104, 
+                    0.44999998807907104, 
+                    0.44999998807907104
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 103014, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -7.46450138092041, 
+                    0.0, 
+                    -0.5209077835082994
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -90.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.4500000000000001, 
+                    0.45, 
+                    0.4500000000000001
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207095, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -7.485957145048938, 
+                    0.0, 
+                    -0.49655381043960045
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -90.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.5000000000000001, 
+                    0.5, 
+                    0.5000000000000001
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207094, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -7.4859476564756955, 
+                    0.0, 
+                    -2.323914440475252
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -89.99999999999997, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.4499999880790712, 
+                    0.44999998807907104, 
+                    0.4499999880790712
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207094, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -7.485947565809686, 
+                    0.0, 
+                    1.1155658642427653
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -89.99999999999997, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.4499999880790712, 
+                    0.44999998807907104, 
+                    0.4499999880790712
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207095, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -7.485947701834525, 
+                    0.0, 
+                    -4.044634254775789
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -90.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.5000000000000001, 
+                    0.5, 
+                    0.5000000000000001
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207095, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -7.485947514775991, 
+                    0.0, 
+                    3.0515657941477032
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -90.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.5000000000000001, 
+                    0.5, 
+                    0.5000000000000001
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207094, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -7.426464894908921, 
+                    0.0, 
+                    4.774005975742409
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -89.99999999999997, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.4499999880790712, 
+                    0.44999998807907104, 
+                    0.4499999880790712
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207094, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -7.395297187589114, 
+                    0.0, 
+                    -5.722389613000334
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -89.99999999999997, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.4499999880790712, 
+                    0.44999998807907104, 
+                    0.4499999880790712
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207095, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    4.221006393432617, 
+                    0.0, 
+                    -6.148417854309081
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.5, 
+                    0.5, 
+                    0.5
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207095, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -5.680972099304199, 
+                    0.0, 
+                    4.821514701843263
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.5, 
+                    0.5, 
+                    0.5
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207095, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -2.1328725814819336, 
+                    0.0, 
+                    4.821514701843263
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.5, 
+                    0.5, 
+                    0.5
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207095, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    1.4152250289916992, 
+                    0.0, 
+                    4.821514701843263
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.5, 
+                    0.5, 
+                    0.5
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207095, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    5.955689430236816, 
+                    0.0, 
+                    -4.067675971984862
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    90.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.5, 
+                    0.5, 
+                    0.5
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207095, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    5.988089561462402, 
+                    0.0, 
+                    -1.0349763870239244
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    90.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.5, 
+                    0.5, 
+                    0.5
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207094, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    5.926302909851074, 
+                    0.0, 
+                    -3.3568529129028306
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.44999998807907104, 
+                    0.44999998807907104, 
+                    0.44999998807907104
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207094, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    5.982512474060059, 
+                    0.0, 
+                    0.46581707000732564
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.44999998807907104, 
+                    0.44999998807907104, 
+                    0.44999998807907104
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207094, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -4.009591102600098, 
+                    0.0, 
+                    4.814453697204591
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.44999998807907104, 
+                    0.44999998807907104, 
+                    0.44999998807907104
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207094, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -0.4518098831176758, 
+                    0.0, 
+                    4.781162834167482
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.44999998807907104, 
+                    0.44999998807907104, 
+                    0.44999998807907104
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 207094, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    3.1135683059692383, 
+                    0.0, 
+                    4.799595451354982
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.44999998807907104, 
+                    0.44999998807907104, 
+                    0.44999998807907104
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 103731, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    4.111827850341797, 
+                    0.0, 
+                    -4.194251441955565
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    37.239999204359215, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.4999999897299527, 
+                    1.5, 
+                    1.4999999897299527
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 203787, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    3.9605112075805664, 
+                    0.0, 
+                    -4.07007541656494
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 203786, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    4.848254203796387, 
+                    0.0, 
+                    -2.8687585830688462
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 104552, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -6.18508243560791, 
+                    0.0, 
+                    2.8141141891479506
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -150.29744696904848, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.1400000135343689, 
+                    1.1399999856948853, 
+                    1.1400000135343689
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 202837, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -4.623122215270996, 
+                    0.0, 
+                    3.4192396163940444
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -67.79152727616642, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.6999999991273103, 
+                    0.699999988079071, 
+                    0.6999999991273103
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 204778, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -6.379744529724121, 
+                    0.0, 
+                    -2.669227027893065
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    91.3600558061572, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0000000274320524, 
+                    1.0, 
+                    1.0000000274320524
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }, 
+        {
+            "base_color_mod": 1, 
+            "base_tint_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "cast_shadow": true, 
+            "fresnel_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ]
+            }, 
+            "fresnel_emissive_color_strength": 1, 
+            "fresnel_exp": 10, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 204779, 
+            "model_opacity": 1, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -6.374030113220215, 
+                    0.0, 
+                    -0.6520570755004869
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    90.56324812083757, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.9999999793812715, 
+                    1.0, 
+                    0.9999999793812715
+                ]
+            }, 
+            "use_base_tint_color": false, 
+            "use_fresnel": 0, 
+            "use_physics": false
+        }
+    ], 
+    "base_color_mod": 1, 
+    "base_tint_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255, 
+            0.5
+        ]
+    }, 
+    "cast_shadow": true, 
+    "collision_box": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -5, 
+                5
+            ], 
+            [
+                -5, 
+                -5
+            ], 
+            [
+                5, 
+                -5
+            ], 
+            [
+                5, 
+                5
+            ]
+        ]
+    }, 
+    "collision_height": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "collision_points": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -2, 
+                -2
+            ], 
+            [
+                1, 
+                1
+            ], 
+            0
+        ]
+    }, 
+    "description": 429059500, 
+    "effect_list": [], 
+    "enable_camera_collision": 0, 
+    "enable_occlusion_perspective": false, 
+    "fresnel_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255, 
+            0.5
+        ]
+    }, 
+    "fresnel_emissive_color_strength": 1, 
+    "fresnel_exp": 10, 
+    "icon": 100000, 
+    "key": 134245038, 
+    "kv": {}, 
+    "material_alpha": 0, 
+    "material_change": 0, 
+    "material_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255
+        ]
+    }, 
+    "material_color_intensity": 0, 
+    "model": 103014, 
+    "model_opacity": 1, 
+    "name": 1217242496, 
+    "receive_decal": false, 
+    "scale": 1.0, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "uid": "134245038", 
+    "use_base_tint_color": false, 
+    "use_fresnel": 0, 
+    "use_physics": false, 
+    "use_virtual_light": 0
+}
