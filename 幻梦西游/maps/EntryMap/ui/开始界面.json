@@ -1,0 +1,1007 @@
+{
+    "adapt_mode": 2, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "cap_insets": {
+                "__tuple__": true, 
+                "items": [
+                    640.0, 
+                    352.0, 
+                    640.0, 
+                    352.0
+                ]
+            }, 
+            "children": [], 
+            "event_list": [], 
+            "image": 131214, 
+            "name": "\u80cc\u666f\u56fe", 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0, 
+                    50.0, 
+                    50.0, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "c14d6841-b204-4f33-9db8-af012cd3953b"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u82f1\u96c4\u4fe1\u606f\u663e\u793a", 
+                            "sound_id": null, 
+                            "type": 28
+                        }
+                    ], 
+                    "name": "\u5218\u5907", 
+                    "normal_picture": 106730, 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            100.0, 
+                            994.9998, 
+                            50.0, 
+                            92.1296, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            200.0, 
+                            170.0
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "3b6fd97e-701b-407d-b516-b085b4323892"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u82f1\u96c4\u4fe1\u606f\u663e\u793a", 
+                            "sound_id": null, 
+                            "type": 28
+                        }
+                    ], 
+                    "name": "\u5173\u7fbd", 
+                    "normal_picture": 106742, 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            100.0, 
+                            815.6663, 
+                            50.0, 
+                            75.5247, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            200.0, 
+                            170.0
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "e1b30fea-9bbe-4875-9524-04dade772759"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u82f1\u96c4\u4fe1\u606f\u663e\u793a", 
+                            "sound_id": null, 
+                            "type": 28
+                        }
+                    ], 
+                    "name": "\u5f20\u98de", 
+                    "normal_picture": 106754, 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            100.0, 
+                            636.3329, 
+                            50.0, 
+                            58.9197, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            200.0, 
+                            170.0
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "49e86f3a-0039-4a10-a6f4-bd1396080b52"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u82f1\u96c4\u4fe1\u606f\u663e\u793a", 
+                            "sound_id": null, 
+                            "type": 28
+                        }
+                    ], 
+                    "name": "\u9a6c\u8d85", 
+                    "normal_picture": 106766, 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            100.0, 
+                            456.9998, 
+                            50.0, 
+                            42.3148, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            200.0, 
+                            170.0
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "3f20cc2f-b957-42d9-9f79-e1640d70e451"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u82f1\u96c4\u4fe1\u606f\u663e\u793a", 
+                            "sound_id": null, 
+                            "type": 28
+                        }
+                    ], 
+                    "name": "\u8d75\u4e91", 
+                    "normal_picture": 106778, 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            100.0, 
+                            277.6659, 
+                            50.0, 
+                            25.7098, 
+                            1, 
+                            0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            200.0, 
+                            170.0
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "2d78d56b-6460-4d7f-a249-4ac8cb410fb5"
+                }
+            ], 
+            "event_list": [], 
+            "name": "\u82f1\u96c4\u9009\u62e9", 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    99.9998, 
+                    540.4244, 
+                    5.2083, 
+                    50.0393, 
+                    0, 
+                    0
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    200.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "5c41bece-6000-46c9-ba78-d265ef3dded6"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "name": "\u82f1\u96c4\u540d\u5b57", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            306.0, 
+                            209.576, 
+                            50.0, 
+                            80.6062, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "type": 3, 
+                    "uid": "b23da667-bfc8-4baf-927f-2989c1a11ce5"
+                }, 
+                {
+                    "alignment": {
+                        "__tuple__": true, 
+                        "items": [
+                            1, 
+                            0
+                        ]
+                    }, 
+                    "children": [], 
+                    "event_list": [], 
+                    "font_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            254, 
+                            254, 
+                            254, 
+                            255
+                        ]
+                    }, 
+                    "name": "\u82f1\u96c4\u63cf\u8ff0", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            306.0, 
+                            81.5757, 
+                            50.0, 
+                            31.3753, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            548.0, 
+                            127.6364
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "8644401b-d048-4d0a-853f-ae08d53615d0"
+                }, 
+                {
+                    "background_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            255, 
+                            255, 
+                            255, 
+                            0
+                        ]
+                    }, 
+                    "camera_mode": 1, 
+                    "camera_pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            -5.2125, 
+                            4.2044, 
+                            5.2407
+                        ]
+                    }, 
+                    "children": [], 
+                    "event_list": [], 
+                    "focus_pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            -4.5654, 
+                            3.8013, 
+                            4.5936
+                        ]
+                    }, 
+                    "name": "\u82f1\u96c4\u6a21\u578b", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            -127.9998, 
+                            -474.8487, 
+                            -20.915, 
+                            -182.6341, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            431.7576, 
+                            522.6667
+                        ]
+                    }, 
+                    "type": 6, 
+                    "uid": "1aae4670-fbbf-4a88-a52d-6ccd851008ec"
+                }
+            ], 
+            "event_list": [], 
+            "name": "\u82f1\u96c4\u4fe1\u606f", 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    1356.0, 
+                    925.4244, 
+                    70.625, 
+                    85.6874, 
+                    0, 
+                    0
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    612.0, 
+                    260.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "ad472f55-3212-4b2c-b600-4151c51d234f"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u96be\u5ea6", 
+                            "sound_id": null, 
+                            "type": 28
+                        }
+                    ], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            35
+                        ]
+                    }, 
+                    "name": "\u96be\u5ea6\u4e00", 
+                    "normal_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            175, 
+                            138, 
+                            106, 
+                            255
+                        ]
+                    }, 
+                    "normal_picture": 131158, 
+                    "normal_text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u96be\u5ea6\u4e00", 
+                            false
+                        ]
+                    }, 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            100.0, 
+                            1011.9989, 
+                            50.0, 
+                            93.7036, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            200.0, 
+                            120.0
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "caaef452-c73c-4f42-9023-c68723ef8ef2"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u96be\u5ea6", 
+                            "sound_id": null, 
+                            "type": 28
+                        }
+                    ], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            35
+                        ]
+                    }, 
+                    "name": "\u96be\u5ea6\u4e8c", 
+                    "normal_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            175, 
+                            138, 
+                            106, 
+                            255
+                        ]
+                    }, 
+                    "normal_picture": 131158, 
+                    "normal_text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u96be\u5ea6\u4e8c", 
+                            false
+                        ]
+                    }, 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            100.0, 
+                            877.8563, 
+                            50.0, 
+                            81.283, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            200.0, 
+                            120.0
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "5f92d3f3-3060-4b1f-ae3b-8e6b96e0eced"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u96be\u5ea6", 
+                            "sound_id": null, 
+                            "type": 28
+                        }
+                    ], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            35
+                        ]
+                    }, 
+                    "name": "\u96be\u5ea6\u4e09", 
+                    "normal_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            175, 
+                            138, 
+                            106, 
+                            255
+                        ]
+                    }, 
+                    "normal_picture": 131158, 
+                    "normal_text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u96be\u5ea6\u4e09", 
+                            false
+                        ]
+                    }, 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            100.0, 
+                            743.714, 
+                            50.0, 
+                            68.8624, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            200.0, 
+                            120.0
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "cbdd476f-5ab0-4a17-8669-3e5c5d0e9804"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u96be\u5ea6", 
+                            "sound_id": null, 
+                            "type": 28
+                        }
+                    ], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            35
+                        ]
+                    }, 
+                    "name": "\u96be\u5ea6\u56db", 
+                    "normal_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            175, 
+                            138, 
+                            106, 
+                            255
+                        ]
+                    }, 
+                    "normal_picture": 131158, 
+                    "normal_text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u96be\u5ea6\u56db", 
+                            false
+                        ]
+                    }, 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            100.0, 
+                            609.5714, 
+                            50.0, 
+                            56.4418, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            200.0, 
+                            120.0
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "a0f982e8-b7f4-46e0-ab25-40c63d7d1607"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u96be\u5ea6", 
+                            "sound_id": null, 
+                            "type": 28
+                        }
+                    ], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            35
+                        ]
+                    }, 
+                    "name": "\u96be\u5ea6\u4e94", 
+                    "normal_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            175, 
+                            138, 
+                            106, 
+                            255
+                        ]
+                    }, 
+                    "normal_picture": 131158, 
+                    "normal_text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u96be\u5ea6\u4e94", 
+                            false
+                        ]
+                    }, 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            100.0, 
+                            475.429, 
+                            50.0, 
+                            44.0212, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            200.0, 
+                            120.0
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "b1e849f7-f765-4241-a1ed-f042557d4fd6"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u96be\u5ea6", 
+                            "sound_id": null, 
+                            "type": 28
+                        }
+                    ], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            35
+                        ]
+                    }, 
+                    "name": "\u96be\u5ea6\u516d", 
+                    "normal_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            175, 
+                            138, 
+                            106, 
+                            255
+                        ]
+                    }, 
+                    "normal_picture": 131158, 
+                    "normal_text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u96be\u5ea6\u516d", 
+                            false
+                        ]
+                    }, 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            100.0, 
+                            341.2865, 
+                            50.0, 
+                            31.6006, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            200.0, 
+                            120.0
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "45ffe3b3-c4e1-4374-85e8-67068ba0cb17"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u96be\u5ea6", 
+                            "sound_id": null, 
+                            "type": 28
+                        }
+                    ], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            35
+                        ]
+                    }, 
+                    "name": "\u96be\u5ea6\u4e03", 
+                    "normal_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            175, 
+                            138, 
+                            106, 
+                            255
+                        ]
+                    }, 
+                    "normal_picture": 131158, 
+                    "normal_text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u96be\u5ea6\u4e03", 
+                            false
+                        ]
+                    }, 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            100.0, 
+                            207.1439, 
+                            50.0, 
+                            19.18, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            200.0, 
+                            120.0
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "1f0fa721-b74d-4016-9d42-3646e2a1ecc8"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u96be\u5ea6", 
+                            "sound_id": null, 
+                            "type": 28
+                        }
+                    ], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            35
+                        ]
+                    }, 
+                    "name": "\u96be\u5ea6\u516b", 
+                    "normal_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            175, 
+                            138, 
+                            106, 
+                            255
+                        ]
+                    }, 
+                    "normal_picture": 131158, 
+                    "normal_text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u96be\u5ea6\u516b", 
+                            false
+                        ]
+                    }, 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            100.0, 
+                            73.0015, 
+                            50.0, 
+                            6.7594, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            200.0, 
+                            120.0
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "8377259b-bf6a-4563-8fdd-3a2c0ae12ac3"
+                }
+            ], 
+            "event_list": [], 
+            "name": "\u96be\u5ea6", 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    1820.0006, 
+                    540.0, 
+                    94.7917, 
+                    50.0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    200.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "81b91f8f-fe05-4eaf-85f6-590cb8885479"
+        }, 
+        {
+            "children": [], 
+            "event_list": [
+                {
+                    "action_list": [
+                        {
+                            "anim_duration": 0.9199999999999999, 
+                            "anim_id": null, 
+                            "anim_type": 0, 
+                            "comp": "9a24bbde-9ad9-4fa0-8ab5-8c31502f4cea", 
+                            "ease_type": 0, 
+                            "name": "Show_2", 
+                            "open_timeline": true, 
+                            "type": 2
+                        }
+                    ], 
+                    "enabled": true, 
+                    "name": "\u5f00\u59cb\u6e38\u620f_0", 
+                    "sound_id": null, 
+                    "type": 28
+                }
+            ], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "MSYH", 
+                    42
+                ]
+            }, 
+            "name": "\u5f00\u59cb\u6e38\u620f", 
+            "normal_font_color": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    0, 
+                    0, 
+                    254
+                ]
+            }, 
+            "normal_picture": 131158, 
+            "normal_text": {
+                "__tuple__": true, 
+                "items": [
+                    "\u5f00\u59cb\u6e38\u620f", 
+                    false
+                ]
+            }, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    1386.1584, 
+                    108.3743, 
+                    72.1958, 
+                    10.0347, 
+                    0, 
+                    0
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    226.0, 
+                    92.0
+                ]
+            }, 
+            "swallow_touches": true, 
+            "type": 1, 
+            "uid": "9a24bbde-9ad9-4fa0-8ab5-8c31502f4cea"
+        }, 
+        {
+            "alignment": {
+                "__tuple__": true, 
+                "items": [
+                    2, 
+                    8
+                ]
+            }, 
+            "children": [], 
+            "event_list": [], 
+            "name": "\u5012\u8ba1\u65f6", 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    813.9062, 
+                    1030.0, 
+                    42.3909, 
+                    95.3704, 
+                    0, 
+                    0
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "text": {
+                "__tuple__": true, 
+                "items": [
+                    "90", 
+                    false
+                ]
+            }, 
+            "type": 3, 
+            "uid": "a41c3ff5-60d4-458d-b414-c0bd267f2e31"
+        }
+    ], 
+    "name": "\u5f00\u59cb\u754c\u9762", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "f43f6c1c-c762-4357-a312-680c13818118", 
+    "visible": true, 
+    "zorder": 400
+}

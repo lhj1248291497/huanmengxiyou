@@ -1,0 +1,105 @@
+{
+    "action": [
+        {
+            "action_type": "FORCE_TRANSMIT_UNIT", 
+            "args_list": [
+                {
+                    "arg_type": 100006, 
+                    "args_list": [
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                "UNIT_ENTITY", 
+                                "玩家英雄"
+                            ]
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [], 
+                            "call_rt_index": 0, 
+                            "op_arg": [], 
+                            "op_arg_enable": [], 
+                            "sub_type": "79c0bcb4776111efbc97a7cd2e435b8b"
+                        }
+                    ], 
+                    "sub_type": 11
+                }, 
+                {
+                    "arg_type": 100004, 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [], 
+                            "sub_type": "TRIGGER_PLAYER"
+                        }
+                    ], 
+                    "sub_type": "GET_PLAYER_POINTING_POS"
+                }
+            ], 
+            "bp": false, 
+            "element_id": 158736468000012, 
+            "enable": true, 
+            "op_arg": [
+                {
+                    "arg_type": 100001, 
+                    "args_list": [
+                        true
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "op_arg_enable": [
+                false
+            ]
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [
+        {
+            "args_list": [
+                {
+                    "arg_type": 200221, 
+                    "args_list": [
+                        241
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 158736468000004, 
+            "enable": true, 
+            "event_type": "MOUSE_KEY_DOWN_EVENT"
+        }
+    ], 
+    "group_id": "OMjMb3j0Ee+uhCkCwfW4It", 
+    "p_trigger_id": null, 
+    "trigger_id": 158736468, 
+    "trigger_name": "测试-右键传送", 
+    "valid": true, 
+    "var_data": [
+        {
+            "FLOAT": {
+                "a": 0.0
+            }, 
+            "POINT": {
+                "点击的点": {
+                    "__tuple__": true, 
+                    "items": [
+                        0, 
+                        0, 
+                        0
+                    ]
+                }
+            }
+        }, 
+        {
+            "a": 0, 
+            "点击的点": 0
+        }, 
+        [
+            "点击的点", 
+            "a"
+        ]
+    ]
+}

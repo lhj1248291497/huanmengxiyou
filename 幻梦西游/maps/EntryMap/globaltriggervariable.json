@@ -1,0 +1,148 @@
+{
+    "variable_dict": {
+        "INTEGER": {
+            "GLOBAL_BAG_MAX_NUM": 0, 
+            "\u56de\u5408\u5269\u4f59\u65f6\u95f4": 0, 
+            "\u56de\u5408\u6570": 0, 
+            "\u56de\u5408\u65f6\u95f4": 2, 
+            "\u57fa\u5730\u4efb\u52a1\u603b\u65f6\u95f4": 0, 
+            "\u6e38\u620f\u96be\u5ea6": 0, 
+            "\u9009\u62e9\u96be\u5ea6\u82f1\u96c4\u5012\u8ba1\u65f6": 90
+        }, 
+        "NEW_TIMER": {}, 
+        "PLAYER": {
+            "\u6240\u6709\u73a9\u5bb6": 0
+        }, 
+        "PLAYER_GROUP": {}, 
+        "POINT": {
+            "\u73a9\u5bb6\u7ec3\u529f\u623f": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    0, 
+                    0
+                ]
+            }
+        }, 
+        "RECTANGLE": {
+            "\u73a9\u5bb6\u7ec3\u529f\u623f\u5237\u602a\u533a": 0
+        }, 
+        "TABLE": {
+            "UI_Manager": null
+        }, 
+        "UNIT_ENTITY": {
+            "\u73a9\u5bb6\u82f1\u96c4": 0
+        }, 
+        "UNIT_NAME": {
+            "\u9009\u62e9\u7684\u82f1\u96c4\u7c7b\u578b": 0
+        }
+    }, 
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "UI_Manager", 
+                "UI_Manager"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "GLOBAL_BAG_MAX_NUM", 
+                "GLOBAL_BAG_MAX_NUM"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u57fa\u5730\u4efb\u52a1\u603b\u65f6\u95f4", 
+                "\u57fa\u5730\u4efb\u52a1\u603b\u65f6\u95f4"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u56de\u5408\u65f6\u95f4", 
+                "\u56de\u5408\u65f6\u95f4"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u56de\u5408\u5269\u4f59\u65f6\u95f4", 
+                "\u56de\u5408\u5269\u4f59\u65f6\u95f4"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u56de\u5408\u6570", 
+                "\u56de\u5408\u6570"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73a9\u5bb6\u82f1\u96c4", 
+                "\u73a9\u5bb6\u82f1\u96c4"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6240\u6709\u73a9\u5bb6", 
+                "\u6240\u6709\u73a9\u5bb6"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73a9\u5bb6\u7ec3\u529f\u623f", 
+                "\u73a9\u5bb6\u7ec3\u529f\u623f"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6e38\u620f\u96be\u5ea6", 
+                "\u6e38\u620f\u96be\u5ea6"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u9009\u62e9\u7684\u82f1\u96c4\u7c7b\u578b", 
+                "\u9009\u62e9\u7684\u82f1\u96c4\u7c7b\u578b"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u9009\u62e9\u96be\u5ea6\u82f1\u96c4\u5012\u8ba1\u65f6", 
+                "\u9009\u62e9\u96be\u5ea6\u82f1\u96c4\u5012\u8ba1\u65f6"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73a9\u5bb6\u7ec3\u529f\u623f\u5237\u602a\u533a", 
+                "\u73a9\u5bb6\u7ec3\u529f\u623f\u5237\u602a\u533a"
+            ]
+        }
+    ], 
+    "variable_length_dict": {
+        "GLOBAL_BAG_MAX_NUM": 0, 
+        "UI_Manager": 0, 
+        "\u56de\u5408\u5269\u4f59\u65f6\u95f4": 0, 
+        "\u56de\u5408\u6570": 0, 
+        "\u56de\u5408\u65f6\u95f4": 0, 
+        "\u57fa\u5730\u4efb\u52a1\u603b\u65f6\u95f4": 0, 
+        "\u6240\u6709\u73a9\u5bb6": 10, 
+        "\u6e38\u620f\u96be\u5ea6": 0, 
+        "\u73a9\u5bb6\u7ec3\u529f\u623f": 10, 
+        "\u73a9\u5bb6\u7ec3\u529f\u623f\u5237\u602a\u533a": 10, 
+        "\u73a9\u5bb6\u82f1\u96c4": 10, 
+        "\u9009\u62e9\u7684\u82f1\u96c4\u7c7b\u578b": 10, 
+        "\u9009\u62e9\u96be\u5ea6\u82f1\u96c4\u5012\u8ba1\u65f6": 0
+    }
+}

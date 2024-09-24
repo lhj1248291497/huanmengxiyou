@@ -1,0 +1,5 @@
+{
+    "New trigger.json": 0, 
+    "UI.folder": 1, 
+    "自定义功能.folder": 2
+}

@@ -1,0 +1,146 @@
+{
+    "action": [
+        {
+            "action_type": "SET_VARIABLE", 
+            "args_list": [
+                {
+                    "arg_type": 100030, 
+                    "args_list": [
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                "INTEGER", 
+                                "玩家索引", 
+                                "local"
+                            ]
+                        }
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100002, 
+                    "args_list": [], 
+                    "call_rt_index": 0, 
+                    "op_arg": [], 
+                    "op_arg_enable": [], 
+                    "sub_type": "79c0bcb4776111efbc97a7cd2e435b8b"
+                }
+            ], 
+            "bp": false, 
+            "element_id": 1059246148000064, 
+            "enable": true
+        }, 
+        {
+            "action_type": "TRIGGER_UI_EVENT", 
+            "args_list": [
+                {
+                    "arg_type": 100025, 
+                    "args_list": [
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                "PLAYER", 
+                                "所有玩家"
+                            ]
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "INTEGER", 
+                                        "玩家索引", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 6
+                        }
+                    ], 
+                    "sub_type": "VARIABLE"
+                }, 
+                {
+                    "arg_type": 100070, 
+                    "args_list": [
+                        "9a24bbde-9ad9-4fa0-8ab5-8c31502f4cea"
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100003, 
+                    "args_list": [
+                        "开始游戏_0"
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 1059246148000014, 
+            "enable": true
+        }, 
+        {
+            "action_type": "SET_TRIGGER_ENABLED", 
+            "args_list": [
+                {
+                    "arg_type": 100019, 
+                    "args_list": [
+                        1059246148
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100048, 
+                    "args_list": [
+                        false
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 1059246148000101, 
+            "enable": true
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [
+        {
+            "args_list": [
+                {
+                    "arg_type": 100002, 
+                    "args_list": [
+                        [
+                            "INTEGER", 
+                            "选择难度英雄倒计时"
+                        ]
+                    ], 
+                    "sub_type": 6
+                }
+            ], 
+            "element_id": 1059246148000003, 
+            "enable": true, 
+            "event_type": "GAME_ELAPSE_ONCE"
+        }
+    ], 
+    "group_id": "7ITG6ndYEe+-zKfNLkNbi+", 
+    "p_trigger_id": null, 
+    "trigger_id": 1059246148, 
+    "trigger_name": "选择英雄难度倒计时", 
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "玩家索引": 0
+            }, 
+            "NEW_TIMER": {}
+        }, 
+        {
+            "玩家索引": 0
+        }, 
+        [
+            "玩家索引"
+        ]
+    ]
+}
