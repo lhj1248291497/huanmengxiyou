@@ -26,15 +26,12 @@
     "bar_show_scale": true, 
     "bar_slot_size": 6, 
     "base_color_mod": 1, 
-    "base_tint_color": {
-        "__tuple__": true, 
-        "items": [
-            255, 
-            255, 
-            255, 
-            0.5
-        ]
-    }, 
+    "base_tint_color": [
+        43, 
+        62, 
+        40, 
+        1.0
+    ], 
     "billboard_height_offset": 0.0, 
     "billboard_name_font": "DFPYuanW7-GB", 
     "billboard_scale_x": 1, 
@@ -111,15 +108,12 @@
     "extra_dmg": 0.0, 
     "extra_dmg_grow": 0.0, 
     "force_show_on_mini_map": false, 
-    "fresnel_color": {
-        "__tuple__": true, 
-        "items": [
-            255, 
-            255, 
-            255, 
-            0.5
-        ]
-    }, 
+    "fresnel_color": [
+        53, 
+        61, 
+        54, 
+        0.5
+    ], 
     "fresnel_emissive_color_strength": 1, 
     "fresnel_exp": 10, 
     "has_mp": false, 
@@ -325,7 +319,7 @@
     }, 
     "type": 4, 
     "uid": "134228358", 
-    "use_base_tint_color": false, 
+    "use_base_tint_color": true, 
     "use_fresnel": false, 
     "use_simple_mini_map_icon": true, 
     "use_virtual_light": false, 

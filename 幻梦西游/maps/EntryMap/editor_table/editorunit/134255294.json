@@ -26,15 +26,12 @@
     "bar_show_scale": true, 
     "bar_slot_size": 6, 
     "base_color_mod": 1, 
-    "base_tint_color": {
-        "__tuple__": true, 
-        "items": [
-            255, 
-            255, 
-            255, 
-            0.5
-        ]
-    }, 
+    "base_tint_color": [
+        25, 
+        21, 
+        21, 
+        1.0
+    ], 
     "billboard_height_offset": 0.0, 
     "billboard_name_font": "DFPYuanW7-GB", 
     "billboard_scale_x": 1, 
@@ -325,7 +322,7 @@
     }, 
     "type": 4, 
     "uid": "134255294", 
-    "use_base_tint_color": false, 
+    "use_base_tint_color": true, 
     "use_fresnel": false, 
     "use_simple_mini_map_icon": true, 
     "use_virtual_light": false, 
