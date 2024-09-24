@@ -629,13 +629,13 @@
                 {
                     "arg_type": 100003, 
                     "args_list": [
-                        "野怪"
+                        "九层妖塔怪物"
                     ], 
                     "sub_type": 1
                 }
             ], 
             "condition_type": "UNIT_HAS_TAG", 
-            "element_id": 1399717971000009, 
+            "element_id": 901062744000009, 
             "enable": true
         }
     ], 
@@ -646,20 +646,20 @@
                 {
                     "arg_type": 100008, 
                     "args_list": [
-                        "ET_BEFORE_UNIT_DIE"
+                        "ET_UNIT_DIE"
                     ], 
                     "sub_type": "GENERIC_UNIT_EVENT"
                 }
             ], 
-            "element_id": 1399717971000002, 
+            "element_id": 901062744000002, 
             "enable": true, 
             "event_type": "GENERIC_UNIT_EVENT"
         }
     ], 
-    "group_id": "OMjMb3j0Ee+uhCkCwfW4It", 
+    "group_id": "ifwBqXppEe+LDf-UdpEw6o", 
     "p_trigger_id": null, 
-    "trigger_id": 1399717971, 
-    "trigger_name": "野怪死后刷新", 
+    "trigger_id": 901062744, 
+    "trigger_name": "九层妖塔怪物死亡重生", 
     "valid": true, 
     "var_data": [
         {
@@ -694,9 +694,9 @@
             "区域类型": 0
         }, 
         [
+            "刷新地点-矩形", 
             "刷新地点-多边形", 
             "区域类型", 
-            "刷新地点-矩形", 
             "刷新地点-圆形", 
             "刷新地点-点"
         ]

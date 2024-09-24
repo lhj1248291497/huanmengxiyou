@@ -645,20 +645,56 @@
                                 {
                                     "arg_type": 100002, 
                                     "args_list": [
-                                        4
+                                        3
                                     ], 
                                     "sub_type": 1
                                 }, 
                                 {
                                     "arg_type": 100116, 
                                     "args_list": [
-                                        134218376
+                                        134266033
                                     ], 
                                     "sub_type": 1
                                 }
                             ], 
                             "bp": false, 
                             "element_id": 373551181000470, 
+                            "enable": true
+                        }, 
+                        {
+                            "action_type": "SEND_CUSTOM_EVENT", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100238, 
+                                    "args_list": [
+                                        1449440987
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100150, 
+                                    "args_list": [
+                                        10013
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        2
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100116, 
+                                    "args_list": [
+                                        134266285
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 373551181000856, 
                             "enable": true
                         }, 
                         {
@@ -681,20 +717,56 @@
                                 {
                                     "arg_type": 100002, 
                                     "args_list": [
-                                        10
+                                        7
                                     ], 
                                     "sub_type": 1
                                 }, 
                                 {
                                     "arg_type": 100116, 
                                     "args_list": [
-                                        134218376
+                                        134266033
                                     ], 
                                     "sub_type": 1
                                 }
                             ], 
                             "bp": false, 
                             "element_id": 373551181000197, 
+                            "enable": true
+                        }, 
+                        {
+                            "action_type": "SEND_CUSTOM_EVENT", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100238, 
+                                    "args_list": [
+                                        1449440987
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100150, 
+                                    "args_list": [
+                                        10017
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        3
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100116, 
+                                    "args_list": [
+                                        134280049
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 373551181000995, 
                             "enable": true
                         }, 
                         {
@@ -717,20 +789,56 @@
                                 {
                                     "arg_type": 100002, 
                                     "args_list": [
-                                        4
+                                        3
                                     ], 
                                     "sub_type": 1
                                 }, 
                                 {
                                     "arg_type": 100116, 
                                     "args_list": [
-                                        134218376
+                                        134266033
                                     ], 
                                     "sub_type": 1
                                 }
                             ], 
                             "bp": false, 
                             "element_id": 373551181000208, 
+                            "enable": true
+                        }, 
+                        {
+                            "action_type": "SEND_CUSTOM_EVENT", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100238, 
+                                    "args_list": [
+                                        1449440987
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100150, 
+                                    "args_list": [
+                                        10021
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        2
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100116, 
+                                    "args_list": [
+                                        134266285
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 373551181000867, 
                             "enable": true
                         }, 
                         {
@@ -760,13 +868,49 @@
                                 {
                                     "arg_type": 100116, 
                                     "args_list": [
-                                        134218376
+                                        134266033
                                     ], 
                                     "sub_type": 1
                                 }
                             ], 
                             "bp": false, 
                             "element_id": 373551181000219, 
+                            "enable": true
+                        }, 
+                        {
+                            "action_type": "SEND_CUSTOM_EVENT", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100238, 
+                                    "args_list": [
+                                        1449440987
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100150, 
+                                    "args_list": [
+                                        10022
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100116, 
+                                    "args_list": [
+                                        134266285
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 373551181000878, 
                             "enable": true
                         }, 
                         {
@@ -789,20 +933,56 @@
                                 {
                                     "arg_type": 100002, 
                                     "args_list": [
-                                        4
+                                        3
                                     ], 
                                     "sub_type": 1
                                 }, 
                                 {
                                     "arg_type": 100116, 
                                     "args_list": [
-                                        134218376
+                                        134266033
                                     ], 
                                     "sub_type": 1
                                 }
                             ], 
                             "bp": false, 
                             "element_id": 373551181000230, 
+                            "enable": true
+                        }, 
+                        {
+                            "action_type": "SEND_CUSTOM_EVENT", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100238, 
+                                    "args_list": [
+                                        1449440987
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100150, 
+                                    "args_list": [
+                                        10023
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100116, 
+                                    "args_list": [
+                                        134280049
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 373551181001012, 
                             "enable": true
                         }, 
                         {
@@ -825,20 +1005,56 @@
                                 {
                                     "arg_type": 100002, 
                                     "args_list": [
-                                        5
+                                        3
                                     ], 
                                     "sub_type": 1
                                 }, 
                                 {
                                     "arg_type": 100116, 
                                     "args_list": [
-                                        134218376
+                                        134266033
                                     ], 
                                     "sub_type": 1
                                 }
                             ], 
                             "bp": false, 
                             "element_id": 373551181000241, 
+                            "enable": true
+                        }, 
+                        {
+                            "action_type": "SEND_CUSTOM_EVENT", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100238, 
+                                    "args_list": [
+                                        1449440987
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100150, 
+                                    "args_list": [
+                                        10024
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        2
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100116, 
+                                    "args_list": [
+                                        134266285
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 373551181000936, 
                             "enable": true
                         }, 
                         {
@@ -861,20 +1077,56 @@
                                 {
                                     "arg_type": 100002, 
                                     "args_list": [
-                                        4
+                                        3
                                     ], 
                                     "sub_type": 1
                                 }, 
                                 {
                                     "arg_type": 100116, 
                                     "args_list": [
-                                        134218376
+                                        134266033
                                     ], 
                                     "sub_type": 1
                                 }
                             ], 
                             "bp": false, 
                             "element_id": 373551181000252, 
+                            "enable": true
+                        }, 
+                        {
+                            "action_type": "SEND_CUSTOM_EVENT", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100238, 
+                                    "args_list": [
+                                        1449440987
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100150, 
+                                    "args_list": [
+                                        10025
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        2
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100116, 
+                                    "args_list": [
+                                        134266285
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 373551181000947, 
                             "enable": true
                         }, 
                         {
@@ -897,20 +1149,56 @@
                                 {
                                     "arg_type": 100002, 
                                     "args_list": [
-                                        4
+                                        3
                                     ], 
                                     "sub_type": 1
                                 }, 
                                 {
                                     "arg_type": 100116, 
                                     "args_list": [
-                                        134218376
+                                        134266033
                                     ], 
                                     "sub_type": 1
                                 }
                             ], 
                             "bp": false, 
                             "element_id": 373551181000263, 
+                            "enable": true
+                        }, 
+                        {
+                            "action_type": "SEND_CUSTOM_EVENT", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100238, 
+                                    "args_list": [
+                                        1449440987
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100150, 
+                                    "args_list": [
+                                        10026
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100116, 
+                                    "args_list": [
+                                        134280049
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 373551181001031, 
                             "enable": true
                         }, 
                         {
@@ -933,20 +1221,56 @@
                                 {
                                     "arg_type": 100002, 
                                     "args_list": [
-                                        4
+                                        2
                                     ], 
                                     "sub_type": 1
                                 }, 
                                 {
                                     "arg_type": 100116, 
                                     "args_list": [
-                                        134218376
+                                        134266285
                                     ], 
                                     "sub_type": 1
                                 }
                             ], 
                             "bp": false, 
                             "element_id": 373551181000274, 
+                            "enable": true
+                        }, 
+                        {
+                            "action_type": "SEND_CUSTOM_EVENT", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100238, 
+                                    "args_list": [
+                                        1449440987
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100150, 
+                                    "args_list": [
+                                        10030
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        3
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100116, 
+                                    "args_list": [
+                                        134266033
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 373551181000958, 
                             "enable": true
                         }, 
                         {
@@ -976,13 +1300,49 @@
                                 {
                                     "arg_type": 100116, 
                                     "args_list": [
-                                        134218376
+                                        134266033
                                     ], 
                                     "sub_type": 1
                                 }
                             ], 
                             "bp": false, 
                             "element_id": 373551181000285, 
+                            "enable": true
+                        }, 
+                        {
+                            "action_type": "SEND_CUSTOM_EVENT", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100238, 
+                                    "args_list": [
+                                        1449440987
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100150, 
+                                    "args_list": [
+                                        10031
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100116, 
+                                    "args_list": [
+                                        134266285
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 373551181000969, 
                             "enable": true
                         }, 
                         {
@@ -1012,13 +1372,49 @@
                                 {
                                     "arg_type": 100116, 
                                     "args_list": [
-                                        134218376
+                                        134266033
                                     ], 
                                     "sub_type": 1
                                 }
                             ], 
                             "bp": false, 
                             "element_id": 373551181000296, 
+                            "enable": true
+                        }, 
+                        {
+                            "action_type": "SEND_CUSTOM_EVENT", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100238, 
+                                    "args_list": [
+                                        1449440987
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100150, 
+                                    "args_list": [
+                                        10032
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100116, 
+                                    "args_list": [
+                                        134280049
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 373551181001048, 
                             "enable": true
                         }, 
                         {
@@ -1041,20 +1437,56 @@
                                 {
                                     "arg_type": 100002, 
                                     "args_list": [
-                                        5
+                                        4
                                     ], 
                                     "sub_type": 1
                                 }, 
                                 {
                                     "arg_type": 100116, 
                                     "args_list": [
-                                        134218376
+                                        134266033
                                     ], 
                                     "sub_type": 1
                                 }
                             ], 
                             "bp": false, 
                             "element_id": 373551181000307, 
+                            "enable": true
+                        }, 
+                        {
+                            "action_type": "SEND_CUSTOM_EVENT", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100238, 
+                                    "args_list": [
+                                        1449440987
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100150, 
+                                    "args_list": [
+                                        10033
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100116, 
+                                    "args_list": [
+                                        134280049
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 373551181001059, 
                             "enable": true
                         }, 
                         {
@@ -1077,20 +1509,56 @@
                                 {
                                     "arg_type": 100002, 
                                     "args_list": [
-                                        7
+                                        5
                                     ], 
                                     "sub_type": 1
                                 }, 
                                 {
                                     "arg_type": 100116, 
                                     "args_list": [
-                                        134218376
+                                        134266033
                                     ], 
                                     "sub_type": 1
                                 }
                             ], 
                             "bp": false, 
                             "element_id": 373551181000318, 
+                            "enable": true
+                        }, 
+                        {
+                            "action_type": "SEND_CUSTOM_EVENT", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100238, 
+                                    "args_list": [
+                                        1449440987
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100150, 
+                                    "args_list": [
+                                        10035
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100116, 
+                                    "args_list": [
+                                        134280049
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 373551181001070, 
                             "enable": true
                         }, 
                         {
@@ -1113,20 +1581,56 @@
                                 {
                                     "arg_type": 100002, 
                                     "args_list": [
-                                        5
+                                        3
                                     ], 
                                     "sub_type": 1
                                 }, 
                                 {
                                     "arg_type": 100116, 
                                     "args_list": [
-                                        134218376
+                                        134266033
                                     ], 
                                     "sub_type": 1
                                 }
                             ], 
                             "bp": false, 
                             "element_id": 373551181000329, 
+                            "enable": true
+                        }, 
+                        {
+                            "action_type": "SEND_CUSTOM_EVENT", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100238, 
+                                    "args_list": [
+                                        1449440987
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100150, 
+                                    "args_list": [
+                                        10037
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100116, 
+                                    "args_list": [
+                                        134280049
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 373551181001081, 
                             "enable": true
                         }, 
                         {
@@ -1156,13 +1660,49 @@
                                 {
                                     "arg_type": 100116, 
                                     "args_list": [
-                                        134218376
+                                        134266033
                                     ], 
                                     "sub_type": 1
                                 }
                             ], 
                             "bp": false, 
                             "element_id": 373551181000340, 
+                            "enable": true
+                        }, 
+                        {
+                            "action_type": "SEND_CUSTOM_EVENT", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100238, 
+                                    "args_list": [
+                                        1449440987
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100150, 
+                                    "args_list": [
+                                        10038
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100116, 
+                                    "args_list": [
+                                        134280049
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 373551181001092, 
                             "enable": true
                         }, 
                         {
@@ -1185,20 +1725,56 @@
                                 {
                                     "arg_type": 100002, 
                                     "args_list": [
-                                        5
+                                        4
                                     ], 
                                     "sub_type": 1
                                 }, 
                                 {
                                     "arg_type": 100116, 
                                     "args_list": [
-                                        134218376
+                                        134266033
                                     ], 
                                     "sub_type": 1
                                 }
                             ], 
                             "bp": false, 
                             "element_id": 373551181000351, 
+                            "enable": true
+                        }, 
+                        {
+                            "action_type": "SEND_CUSTOM_EVENT", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100238, 
+                                    "args_list": [
+                                        1449440987
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100150, 
+                                    "args_list": [
+                                        10039
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        2
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100116, 
+                                    "args_list": [
+                                        134280049
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 373551181001103, 
                             "enable": true
                         }
                     ], 
@@ -1220,116 +1796,6 @@
             "bp": false, 
             "element_id": 373551181000013, 
             "enable": true
-        }, 
-        {
-            "action_type": "STORAGE_BOX", 
-            "args_list": [
-                {
-                    "arg_type": 100021, 
-                    "args_list": [], 
-                    "sub_type": 1
-                }, 
-                {
-                    "arg_type": 100022, 
-                    "args_list": [
-                        {
-                            "action_type": "SEND_CUSTOM_EVENT", 
-                            "args_list": [
-                                {
-                                    "arg_type": 100238, 
-                                    "args_list": [
-                                        1190009848
-                                    ], 
-                                    "sub_type": 1
-                                }, 
-                                {
-                                    "arg_type": 100023, 
-                                    "args_list": [
-                                        10041
-                                    ], 
-                                    "sub_type": 1
-                                }, 
-                                {
-                                    "arg_type": 100002, 
-                                    "args_list": [
-                                        1
-                                    ], 
-                                    "sub_type": 1
-                                }, 
-                                {
-                                    "arg_type": 100116, 
-                                    "args_list": [
-                                        134278824
-                                    ], 
-                                    "sub_type": 1
-                                }
-                            ], 
-                            "bp": false, 
-                            "element_id": 373551181000840, 
-                            "enable": true
-                        }, 
-                        {
-                            "action_type": "SEND_CUSTOM_EVENT", 
-                            "args_list": [
-                                {
-                                    "arg_type": 100238, 
-                                    "args_list": [
-                                        1589770349
-                                    ], 
-                                    "sub_type": 1
-                                }, 
-                                {
-                                    "arg_type": 100009, 
-                                    "args_list": [
-                                        10040
-                                    ], 
-                                    "sub_type": 1
-                                }, 
-                                {
-                                    "arg_type": 100002, 
-                                    "args_list": [
-                                        15
-                                    ], 
-                                    "sub_type": 1
-                                }, 
-                                {
-                                    "arg_type": 100116, 
-                                    "args_list": [
-                                        134260022
-                                    ], 
-                                    "sub_type": 1
-                                }, 
-                                {
-                                    "arg_type": 100002, 
-                                    "args_list": [
-                                        3
-                                    ], 
-                                    "sub_type": 1
-                                }
-                            ], 
-                            "bp": false, 
-                            "element_id": 373551181000851, 
-                            "enable": true
-                        }
-                    ], 
-                    "sub_type": 1
-                }, 
-                {
-                    "arg_type": 100022, 
-                    "args_list": [], 
-                    "sub_type": 1
-                }, 
-                {
-                    "arg_type": 100003, 
-                    "args_list": [
-                        "九层妖塔"
-                    ], 
-                    "sub_type": 1
-                }
-            ], 
-            "bp": false, 
-            "element_id": 373551181000803, 
-            "enable": true
         }
     ], 
     "call_enabled": true, 
@@ -1347,7 +1813,7 @@
     "p_trigger_id": null, 
     "trigger_id": 373551181, 
     "trigger_name": "野怪初始化", 
-    "valid": false, 
+    "valid": true, 
     "var_data": [
         {
             "INTEGER": {
