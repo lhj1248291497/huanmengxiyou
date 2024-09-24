@@ -34,6 +34,8 @@
             "\u73a9\u5bb6\u82f1\u96c4": 0
         }, 
         "UNIT_NAME": {
+            "lhj_\u5168_\u4e5d\u5c42\u5996\u5854\u602a\u7269": 0, 
+            "lhj_\u5168_\u5173\u5361\u602a\u7269": 0, 
             "\u9009\u62e9\u7684\u82f1\u96c4\u7c7b\u578b": 0
         }
     }, 
@@ -133,11 +135,27 @@
             "group": [], 
             "key": "+s6-oHphEe+vAUEgHb22v+", 
             "name": "\u6700\u8fd1\u5bfc\u5165_\u5168\u5c40\u53d8\u91cf"
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "lhj_\u5168_\u5173\u5361\u602a\u7269", 
+                "lhj_\u5168_\u5173\u5361\u602a\u7269"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "lhj_\u5168_\u4e5d\u5c42\u5996\u5854\u602a\u7269", 
+                "lhj_\u5168_\u4e5d\u5c42\u5996\u5854\u602a\u7269"
+            ]
         }
     ], 
     "variable_length_dict": {
         "GLOBAL_BAG_MAX_NUM": 0, 
         "UI_Manager": 0, 
+        "lhj_\u5168_\u4e5d\u5c42\u5996\u5854\u602a\u7269": 10, 
+        "lhj_\u5168_\u5173\u5361\u602a\u7269": 10, 
         "\u56de\u5408\u5269\u4f59\u65f6\u95f4": 0, 
         "\u56de\u5408\u6570": 0, 
         "\u56de\u5408\u65f6\u95f4": 0, 

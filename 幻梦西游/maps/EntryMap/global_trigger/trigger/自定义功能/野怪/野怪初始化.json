@@ -1347,7 +1347,7 @@
     "p_trigger_id": null, 
     "trigger_id": 373551181, 
     "trigger_name": "野怪初始化", 
-    "valid": true, 
+    "valid": false, 
     "var_data": [
         {
             "INTEGER": {

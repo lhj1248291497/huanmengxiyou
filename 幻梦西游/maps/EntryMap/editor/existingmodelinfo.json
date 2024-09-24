@@ -2414,5 +2414,205 @@
    "\u690d\u7269\u9ec4\u8272\u68d5\u6988\u6811", 
    16384
   ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   2, 
+   "1-\u5200\u65a7\u624b", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   4, 
+   "2-\u5f13\u7bad\u624b", 
+   4
+  ]
+ }, 
+ {
+  "name": "\u4e5d\u5c42\u5996\u5854", 
+  "key": "ZT8VunpoEe+29--UdpEw6p", 
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     10072, 
+     "\u5b88\u5854\u4eba", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10073, 
+     "\u57cb\u5c38\u5730", 
+     2048
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10078, 
+     "\u5e7d\u9b42\u6bbf-1", 
+     4194304
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10079, 
+     "\u5e7d\u9b42\u6bbf-2", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10080, 
+     "\u90aa\u6076\u517d\u4eba-1", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10081, 
+     "\u90aa\u6076\u517d\u4eba-2", 
+     4194304
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10082, 
+     "\u7194\u5ca9\u6d1e\u7a9f-2", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10083, 
+     "\u7194\u5ca9\u6d1e\u7a9f-1", 
+     4194304
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10084, 
+     "\u53cc\u5b50\u70bc\u72f1\u9b54-1", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10085, 
+     "\u53cc\u5b50\u70bc\u72f1\u9b54-2", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10088, 
+     "\u5438\u8840\u9b3c\u5bb6\u65cf-2", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10090, 
+     "\u5438\u8840\u9b3c\u5bb6\u65cf-1", 
+     2048
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10091, 
+     "\u536b\u58eb-1", 
+     2048
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10093, 
+     "\u536b\u58eb-2", 
+     2048
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10094, 
+     "\u738b-1", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10095, 
+     "\u738b-2", 
+     1024
+    ]
+   }
+  ], 
+  "btn_visible": false, 
+  "btn_lock": false
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   5, 
+   "\u5f20 \u98de", 
+   1
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   7, 
+   "\u9ab7\u9ac5\u5c04\u624b", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   8, 
+   "\u9ab7\u9ac5\u5c04\u624b", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9, 
+   "\u9ab7\u9ac5\u5c04\u624b", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10, 
+   "\u9ab7\u9ac5\u5c04\u624b", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   11, 
+   "\u9ab7\u9ac5\u5c04\u624b", 
+   4
+  ]
  }
 ]

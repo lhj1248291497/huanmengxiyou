@@ -2771,7 +2771,7 @@
     "p_trigger_id": null, 
     "trigger_id": 1230479423, 
     "trigger_name": "练功房0.1s事件", 
-    "valid": true, 
+    "valid": false, 
     "var_data": [
         {
             "FLOAT": {}, 

@@ -216,6 +216,8 @@
         "__tuple__": true, 
         "items": []
     }, 
+    "reward_8JGEXnc1Ee+ov7Vju2zWk3": 0.0, 
+    "reward_8QTFh3c1Ee+zKLVju2zWk8": 0.0, 
     "reward_exp": 5, 
     "reward_official_res_1": 0.0, 
     "role_color_scale": 1.0, 
@@ -301,7 +303,6 @@
     "speed_ratio_in_turn": 1, 
     "standard_walk_rate": 40.0, 
     "start_rft": 1.0, 
-    "state_init": "", 
     "state_list": {
         "__tuple__": true, 
         "items": []
@@ -311,7 +312,9 @@
     "suffix": "", 
     "tags": {
         "__tuple__": true, 
-        "items": []
+        "items": [
+            "\u5173\u5361\u602a\u7269"
+        ]
     }, 
     "type": 4, 
     "uid": "134245455", 
