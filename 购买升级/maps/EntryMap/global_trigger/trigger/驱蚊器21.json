@@ -1,0 +1,17 @@
+{
+    "action": [], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [], 
+    "group_id": 0, 
+    "p_trigger_id": null, 
+    "trigger_id": 1612693561, 
+    "trigger_name": "驱蚊器21", 
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
+}
