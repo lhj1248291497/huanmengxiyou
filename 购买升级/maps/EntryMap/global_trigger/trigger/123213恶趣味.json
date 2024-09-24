@@ -4,7 +4,7 @@
             "action_type": "SET_VARIABLE", 
             "args_list": [], 
             "bp": false, 
-            "element_id": 1612693561000003, 
+            "element_id": 1998655545000002, 
             "enable": true
         }
     ], 
@@ -14,8 +14,8 @@
     "event": [], 
     "group_id": 0, 
     "p_trigger_id": null, 
-    "trigger_id": 1612693561, 
-    "trigger_name": "驱蚊器21", 
+    "trigger_id": 1998655545, 
+    "trigger_name": "123213恶趣味", 
     "valid": false, 
     "var_data": [
         {}, 
