@@ -1,5 +1,13 @@
 {
-    "action": [], 
+    "action": [
+        {
+            "action_type": "SET_VARIABLE", 
+            "args_list": [], 
+            "bp": false, 
+            "element_id": 1612693561000003, 
+            "enable": true
+        }
+    ], 
     "call_enabled": true, 
     "condition": [], 
     "enabled": true, 
@@ -8,7 +16,7 @@
     "p_trigger_id": null, 
     "trigger_id": 1612693561, 
     "trigger_name": "驱蚊器21", 
-    "valid": true, 
+    "valid": false, 
     "var_data": [
         {}, 
         {}, 

@@ -1,5 +1,13 @@
 {
-    "action": [], 
+    "action": [
+        {
+            "action_type": "SET_VARIABLE", 
+            "args_list": [], 
+            "bp": false, 
+            "element_id": 1998655545000002, 
+            "enable": true
+        }
+    ], 
     "call_enabled": true, 
     "condition": [], 
     "enabled": true, 
@@ -8,7 +16,7 @@
     "p_trigger_id": null, 
     "trigger_id": 1998655545, 
     "trigger_name": "123213恶趣味", 
-    "valid": true, 
+    "valid": false, 
     "var_data": [
         {}, 
         {}, 
