@@ -6,6 +6,32 @@
             "bp": false, 
             "element_id": 1998655545000002, 
             "enable": true
+        }, 
+        {
+            "action_type": "IF_THEN_ELSE", 
+            "args_list": [
+                {
+                    "arg_type": 100021, 
+                    "args_list": [], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100022, 
+                    "args_list": [], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100022, 
+                    "args_list": [], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 1998655545000005, 
+            "enable": true, 
+            "fake_op": [
+                2
+            ]
         }
     ], 
     "call_enabled": true, 
