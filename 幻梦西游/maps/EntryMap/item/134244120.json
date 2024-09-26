@@ -1,5 +1,9 @@
 {
     "local_variable": {
+        "417398787": {
+            "variable_dict": {}, 
+            "variable_length_dict": {}
+        }, 
         "621060098": {
             "variable_dict": {}, 
             "variable_length_dict": {}
@@ -60,7 +64,7 @@
                     "event_type": "ITEM_REMOVE_EVENT"
                 }
             ], 
-            "group_id": 134229899, 
+            "group_id": 134244120, 
             "p_trigger_id": null, 
             "trigger_id": 417398787, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
@@ -785,7 +789,7 @@
                     "event_type": "SPECIAL_UNIT_EVENT"
                 }
             ], 
-            "group_id": 134229899, 
+            "group_id": 134244120, 
             "is_conf": true, 
             "p_trigger_id": 956534785, 
             "sub_trigger_owner_set_var_action": {
@@ -894,7 +898,7 @@
                     "event_type": "ITEM_ADD_EVENT"
                 }
             ], 
-            "group_id": 134229899, 
+            "group_id": 134244120, 
             "p_trigger_id": null, 
             "trigger_id": 956534785, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
@@ -943,8 +947,8 @@
                     ]
                 }
             ], 
-            "key": 134229899, 
-            "name": "134229899"
+            "key": 134244120, 
+            "name": "134244120"
         }, 
         {
             "__tuple__": true, 
