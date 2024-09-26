@@ -4,12 +4,87 @@
         {
             "__tuple__": true, 
             "items": [
-                "jQQ8cnqHEe+2v1VdnC564G", 
+                "+LLQ8nvuEe+JaVlYl7IMqr", 
                 {
                     "default": 0.0, 
-                    "desc": "\u5c5e\u6027\u6210\u957f", 
+                    "desc": "\u529b\u91cf\u6210\u957f", 
                     "desc_bit": 1, 
-                    "key": "jQQ8cnqHEe+2v1VdnC564G", 
+                    "key": "+LLQ8nvuEe+JaVlYl7IMqr", 
+                    "maximun": 70000000000000, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "+RhkdnvuEe+P0llYl7IMqj", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u667a\u529b\u6210\u957f", 
+                    "desc_bit": 1, 
+                    "key": "+RhkdnvuEe+P0llYl7IMqj", 
+                    "maximun": 70000000000000, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "+Vrh93vuEe+tgVlYl7IMql", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u654f\u6377\u6210\u957f", 
+                    "desc_bit": 1, 
+                    "key": "+Vrh93vuEe+tgVlYl7IMql", 
+                    "maximun": 70000000000000, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "tLSx1XvyEe+vBllYl7IMqo", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u529b\u91cf\u5438\u9b42", 
+                    "desc_bit": 1, 
+                    "key": "tLSx1XvyEe+vBllYl7IMqo", 
+                    "maximun": 70000000000000, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "tOyqwXvyEe+R0llYl7IMqv", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u654f\u6377\u5438\u9b42", 
+                    "desc_bit": 1, 
+                    "key": "tOyqwXvyEe+R0llYl7IMqv", 
+                    "maximun": 70000000000000, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "tS64vXvyEe+H0llYl7IMqg", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u667a\u529b\u5438\u9b42", 
+                    "desc_bit": 1, 
+                    "key": "tS64vXvyEe+H0llYl7IMqg", 
                     "maximun": 70000000000000, 
                     "minimun": 0.0, 
                     "type": "Fixed"

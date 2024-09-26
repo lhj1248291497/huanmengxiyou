@@ -1,4 +1,10 @@
 {
+    "+LLQ8nvuEe+JaVlYl7IMqr": 0.0, 
+    "+LLQ8nvuEe+JaVlYl7IMqr_grow": 0.0, 
+    "+RhkdnvuEe+P0llYl7IMqj": 0.0, 
+    "+RhkdnvuEe+P0llYl7IMqj_grow": 0.0, 
+    "+Vrh93vuEe+tgVlYl7IMql": 0.0, 
+    "+Vrh93vuEe+tgVlYl7IMql_grow": 0.0, 
     "_custom_": true, 
     "_ref_": 134274912, 
     "affect_techs": {
@@ -312,6 +318,12 @@
     "strength": 10.0, 
     "strength_grow": 1.0, 
     "suffix": "", 
+    "tLSx1XvyEe+vBllYl7IMqo": 0.0, 
+    "tLSx1XvyEe+vBllYl7IMqo_grow": 0.0, 
+    "tOyqwXvyEe+R0llYl7IMqv": 0.0, 
+    "tOyqwXvyEe+R0llYl7IMqv_grow": 0.0, 
+    "tS64vXvyEe+H0llYl7IMqg": 0.0, 
+    "tS64vXvyEe+H0llYl7IMqg_grow": 0.0, 
     "tags": {
         "__tuple__": true, 
         "items": [

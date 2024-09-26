@@ -1,22 +1,21 @@
 {
     "_custom_": true, 
-    "_ref_": 134223267, 
+    "_ref_": 134279681, 
     "attached_ability": {
         "__tuple__": true, 
         "items": []
     }, 
     "attached_agility": 0.0, 
-    "attached_attack_phy": [
-        0.0, 
-        0.0, 
-        1000.0, 
-        0.0, 
-        0.0
-    ], 
     "attached_critical_chance": 0.0, 
     "attached_dodge_rate": 0.0, 
     "attached_hit_rate": 0.0, 
-    "attached_hp_max": 0.0, 
+    "attached_hp_max": [
+        0.0, 
+        0.0, 
+        10000.0, 
+        0.0, 
+        0.0
+    ], 
     "attached_hp_rec": 0.0, 
     "attached_intelligence": 0.0, 
     "attached_passive_abilities": {
@@ -25,13 +24,7 @@
     }, 
     "attached_pene_mag": 0.0, 
     "attached_pene_phy": 0.0, 
-    "attached_strength": [
-        0.0, 
-        0.0, 
-        100.0, 
-        0.0, 
-        0.0
-    ], 
+    "attached_strength": 0.0, 
     "auto_use": false, 
     "base_color_mod": 1, 
     "base_tint_color": {
@@ -56,11 +49,11 @@
     "cur_charge": 0, 
     "cur_stack": 1, 
     "delete_on_discard": false, 
-    "desc": -1519417620, 
-    "description": -1519417620, 
+    "desc": -1298687469, 
+    "description": -1298687469, 
     "disable_overlapping": false, 
     "discard_enable": true, 
-    "discard_when_dead": true, 
+    "discard_when_dead": false, 
     "drop_stay_time": 9999, 
     "effect_list": {}, 
     "fresnel_color": {
@@ -75,10 +68,10 @@
     "fresnel_emissive_color_strength": 1, 
     "fresnel_exp": 10, 
     "hp_max": 100, 
-    "icon": 106511, 
+    "icon": 120820, 
     "init_stock": 5, 
     "item_billboard_type": 0, 
-    "key": 134223267, 
+    "key": 134279681, 
     "kv": {}, 
     "level": 1, 
     "material_alpha": 0, 
@@ -97,13 +90,12 @@
     "maximum_stacking": 5, 
     "model": 10022, 
     "model_opacity": 1, 
-    "name": -1544122191, 
+    "name": 445651373, 
     "precondition_list": {
         "__tuple__": true, 
         "items": []
     }, 
     "refresh_interval": 1, 
-    "reward_official_res_1": 0.0, 
     "sale_enable": true, 
     "sell_res_list": {
         "__tuple__": true, 
@@ -113,14 +105,14 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "stack_type": 2, 
+    "stack_type": 0, 
     "start_rft": 1, 
     "suffix": "", 
     "tags": {
         "__tuple__": true, 
         "items": []
     }, 
-    "uid": "134223267", 
+    "uid": "134279681", 
     "use_base_tint_color": false, 
     "use_consume": 1, 
     "use_fresnel": 0, 

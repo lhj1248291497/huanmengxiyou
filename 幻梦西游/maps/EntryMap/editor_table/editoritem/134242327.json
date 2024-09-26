@@ -1,15 +1,35 @@
 {
     "_custom_": true, 
-    "_ref_": 134223267, 
+    "_ref_": 134242327, 
+    "attached_+LLQ8nvuEe+JaVlYl7IMqr": [
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0
+    ], 
+    "attached_+RhkdnvuEe+P0llYl7IMqj": [
+        0.0, 
+        0.0, 
+        5.0, 
+        0.0, 
+        0.0
+    ], 
     "attached_ability": {
         "__tuple__": true, 
         "items": []
     }, 
-    "attached_agility": 0.0, 
-    "attached_attack_phy": [
+    "attached_agility": [
         0.0, 
         0.0, 
         1000.0, 
+        0.0, 
+        0.0
+    ], 
+    "attached_attack_phy": [
+        0.0, 
+        0.0, 
+        10000.0, 
         0.0, 
         0.0
     ], 
@@ -18,7 +38,13 @@
     "attached_hit_rate": 0.0, 
     "attached_hp_max": 0.0, 
     "attached_hp_rec": 0.0, 
-    "attached_intelligence": 0.0, 
+    "attached_intelligence": [
+        0.0, 
+        0.0, 
+        2000.0, 
+        0.0, 
+        0.0
+    ], 
     "attached_passive_abilities": {
         "__tuple__": true, 
         "items": []
@@ -26,6 +52,27 @@
     "attached_pene_mag": 0.0, 
     "attached_pene_phy": 0.0, 
     "attached_strength": [
+        0.0, 
+        0.0, 
+        1000.0, 
+        0.0, 
+        0.0
+    ], 
+    "attached_tLSx1XvyEe+vBllYl7IMqo": [
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0
+    ], 
+    "attached_tS64vXvyEe+H0llYl7IMqg": [
+        0.0, 
+        0.0, 
+        5.0, 
+        0.0, 
+        0.0
+    ], 
+    "attached_vampire_phy": [
         0.0, 
         0.0, 
         100.0, 
@@ -56,11 +103,11 @@
     "cur_charge": 0, 
     "cur_stack": 1, 
     "delete_on_discard": false, 
-    "desc": -1519417620, 
-    "description": -1519417620, 
+    "desc": 397538073, 
+    "description": 397538073, 
     "disable_overlapping": false, 
     "discard_enable": true, 
-    "discard_when_dead": true, 
+    "discard_when_dead": false, 
     "drop_stay_time": 9999, 
     "effect_list": {}, 
     "fresnel_color": {
@@ -75,10 +122,10 @@
     "fresnel_emissive_color_strength": 1, 
     "fresnel_exp": 10, 
     "hp_max": 100, 
-    "icon": 106511, 
+    "icon": 108860, 
     "init_stock": 5, 
     "item_billboard_type": 0, 
-    "key": 134223267, 
+    "key": 134242327, 
     "kv": {}, 
     "level": 1, 
     "material_alpha": 0, 
@@ -97,7 +144,7 @@
     "maximum_stacking": 5, 
     "model": 10022, 
     "model_opacity": 1, 
-    "name": -1544122191, 
+    "name": -785073974, 
     "precondition_list": {
         "__tuple__": true, 
         "items": []
@@ -113,16 +160,16 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "stack_type": 2, 
+    "stack_type": 0, 
     "start_rft": 1, 
     "suffix": "", 
     "tags": {
         "__tuple__": true, 
         "items": []
     }, 
-    "uid": "134223267", 
+    "uid": "134242327", 
     "use_base_tint_color": false, 
     "use_consume": 1, 
-    "use_fresnel": 0, 
-    "use_virtual_light": 0
+    "use_fresnel": false, 
+    "use_virtual_light": false
 }
