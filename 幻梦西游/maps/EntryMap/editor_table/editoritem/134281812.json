@@ -1,6 +1,6 @@
 {
     "_custom_": true, 
-    "_ref_": 134237776, 
+    "_ref_": 134281812, 
     "attached_ability": {
         "__tuple__": true, 
         "items": []
@@ -10,32 +10,14 @@
     "attached_defense_phy": [
         0.0, 
         0.0, 
-        500.0, 
+        20.0, 
         0.0, 
         0.0
     ], 
-    "attached_dodge_rate": [
-        0.0, 
-        0.0, 
-        50.0, 
-        0.0, 
-        0.0
-    ], 
+    "attached_dodge_rate": 0.0, 
     "attached_hit_rate": 0.0, 
-    "attached_hp_max": [
-        0.0, 
-        0.0, 
-        50000.0, 
-        0.0, 
-        0.0
-    ], 
-    "attached_hp_rec": [
-        0.0, 
-        0.0, 
-        5000.0, 
-        0.0, 
-        0.0
-    ], 
+    "attached_hp_max": 0.0, 
+    "attached_hp_rec": 0.0, 
     "attached_intelligence": 0.0, 
     "attached_passive_abilities": {
         "__tuple__": true, 
@@ -61,33 +43,15 @@
         "items": []
     }, 
     "cd_type": "", 
-    "compose_list": [
-        [
-            134240534, 
-            1
-        ], 
-        [
-            134256725, 
-            1
-        ], 
-        [
-            134256886, 
-            1
-        ], 
-        [
-            134279681, 
-            1
-        ], 
-        [
-            134271261, 
-            1
-        ]
-    ], 
+    "compose_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
     "cur_charge": 0, 
     "cur_stack": 1, 
     "delete_on_discard": false, 
-    "desc": 1774551833, 
-    "description": 1774551833, 
+    "desc": 1951115370, 
+    "description": 1951115370, 
     "disable_overlapping": false, 
     "discard_enable": true, 
     "discard_when_dead": false, 
@@ -105,10 +69,10 @@
     "fresnel_emissive_color_strength": 1, 
     "fresnel_exp": 10, 
     "hp_max": 100, 
-    "icon": 109024, 
+    "icon": 120355, 
     "init_stock": 5, 
     "item_billboard_type": 0, 
-    "key": 134237776, 
+    "key": 134281812, 
     "kv": {}, 
     "level": 1, 
     "material_alpha": 0, 
@@ -127,7 +91,7 @@
     "maximum_stacking": 5, 
     "model": 10022, 
     "model_opacity": 1, 
-    "name": -2022848257, 
+    "name": -1360090673, 
     "precondition_list": {
         "__tuple__": true, 
         "items": []
@@ -149,7 +113,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "uid": "134237776", 
+    "uid": "134281812", 
     "use_base_tint_color": false, 
     "use_consume": 1, 
     "use_fresnel": 0, 
