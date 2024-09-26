@@ -1,19 +1,24 @@
 {
     "action": [
         {
-            "action_type": "SET_VARIABLE", 
+            "action_type": "SET_ATTR", 
             "args_list": [
                 {
-                    "arg_type": 100030, 
+                    "arg_type": 100006, 
+                    "args_list": [], 
+                    "sub_type": "GET_UNIT_FROM_EVENT"
+                }, 
+                {
+                    "arg_type": 100300, 
                     "args_list": [
-                        {
-                            "__tuple__": true, 
-                            "items": [
-                                "FLOAT", 
-                                "属性成长", 
-                                "local"
-                            ]
-                        }
+                        "ATTR_BASE"
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100042, 
+                    "args_list": [
+                        "strength"
                     ], 
                     "sub_type": 1
                 }, 
@@ -24,15 +29,26 @@
                             "arg_type": 100000, 
                             "args_list": [
                                 {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        "FLOAT", 
-                                        "属性成长", 
-                                        "local"
-                                    ]
+                                    "arg_type": 100006, 
+                                    "args_list": [], 
+                                    "sub_type": "GET_UNIT_FROM_EVENT"
+                                }, 
+                                {
+                                    "arg_type": 100301, 
+                                    "args_list": [
+                                        "ATTR_BASE"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100042, 
+                                    "args_list": [
+                                        "strength"
+                                    ], 
+                                    "sub_type": 1
                                 }
                             ], 
-                            "sub_type": 2
+                            "sub_type": "GET_UNIT_ATTR"
                         }, 
                         {
                             "arg_type": 100017, 
@@ -45,12 +61,12 @@
                             "arg_type": 100000, 
                             "args_list": [
                                 {
-                                    "arg_type": 100032, 
+                                    "arg_type": 100006, 
                                     "args_list": [], 
-                                    "sub_type": "GET_ITEM_KEY_FROM_EVENT"
+                                    "sub_type": "GET_UNIT_FROM_EVENT"
                                 }, 
                                 {
-                                    "arg_type": 100300, 
+                                    "arg_type": 100301, 
                                     "args_list": [
                                         "ATTR_BASE"
                                     ], 
@@ -59,532 +75,262 @@
                                 {
                                     "arg_type": 100042, 
                                     "args_list": [
-                                        "jQQ8cnqHEe+2v1VdnC564G"
+                                        "+LLQ8nvuEe+JaVlYl7IMqr"
                                     ], 
                                     "sub_type": 1
                                 }
                             ], 
-                            "sub_type": "GET_ITEM_KEY_ATTR"
+                            "sub_type": "GET_UNIT_ATTR"
                         }
                     ], 
                     "sub_type": "ARITHMETIC_OPERATION"
                 }
             ], 
             "bp": false, 
-            "element_id": 343228505000006, 
+            "element_id": 1032040538000016, 
             "enable": true
         }, 
-        1032040538, 
-        296808540
+        {
+            "action_type": "SET_ATTR", 
+            "args_list": [
+                {
+                    "arg_type": 100006, 
+                    "args_list": [], 
+                    "sub_type": "GET_UNIT_FROM_EVENT"
+                }, 
+                {
+                    "arg_type": 100300, 
+                    "args_list": [
+                        "ATTR_BASE"
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100042, 
+                    "args_list": [
+                        "agility"
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100000, 
+                    "args_list": [
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [], 
+                                    "sub_type": "GET_UNIT_FROM_EVENT"
+                                }, 
+                                {
+                                    "arg_type": 100301, 
+                                    "args_list": [
+                                        "ATTR_BASE"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100042, 
+                                    "args_list": [
+                                        "agility"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_UNIT_ATTR"
+                        }, 
+                        {
+                            "arg_type": 100017, 
+                            "args_list": [
+                                "+"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [], 
+                                    "sub_type": "GET_UNIT_FROM_EVENT"
+                                }, 
+                                {
+                                    "arg_type": 100301, 
+                                    "args_list": [
+                                        "ATTR_BASE"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100042, 
+                                    "args_list": [
+                                        "+Vrh93vuEe+tgVlYl7IMql"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_UNIT_ATTR"
+                        }
+                    ], 
+                    "sub_type": "ARITHMETIC_OPERATION"
+                }
+            ], 
+            "bp": false, 
+            "element_id": 694599782000082, 
+            "enable": true
+        }, 
+        {
+            "action_type": "SET_ATTR", 
+            "args_list": [
+                {
+                    "arg_type": 100006, 
+                    "args_list": [], 
+                    "sub_type": "GET_UNIT_FROM_EVENT"
+                }, 
+                {
+                    "arg_type": 100300, 
+                    "args_list": [
+                        "ATTR_BASE"
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100042, 
+                    "args_list": [
+                        "intelligence"
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100000, 
+                    "args_list": [
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [], 
+                                    "sub_type": "GET_UNIT_FROM_EVENT"
+                                }, 
+                                {
+                                    "arg_type": 100301, 
+                                    "args_list": [
+                                        "ATTR_BASE"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100042, 
+                                    "args_list": [
+                                        "intelligence"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_UNIT_ATTR"
+                        }, 
+                        {
+                            "arg_type": 100017, 
+                            "args_list": [
+                                "+"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [], 
+                                    "sub_type": "GET_UNIT_FROM_EVENT"
+                                }, 
+                                {
+                                    "arg_type": 100301, 
+                                    "args_list": [
+                                        "ATTR_BASE"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100042, 
+                                    "args_list": [
+                                        "+RhkdnvuEe+P0llYl7IMqj"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_UNIT_ATTR"
+                        }
+                    ], 
+                    "sub_type": "ARITHMETIC_OPERATION"
+                }
+            ], 
+            "bp": false, 
+            "element_id": 694599782000111, 
+            "enable": true
+        }
     ], 
     "call_enabled": true, 
     "condition": [
         {
             "args_list": [
                 {
-                    "arg_type": 100031, 
-                    "args_list": [], 
-                    "sub_type": "TRIGGER_ITEM_ENTITY"
+                    "arg_type": 100010, 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "GET_UNIT_FROM_EVENT"
+                        }
+                    ], 
+                    "sub_type": "GET_UNIT_TYPE"
                 }, 
                 {
-                    "arg_type": 100003, 
+                    "arg_type": 100035, 
                     "args_list": [
-                        "属性成长"
+                        "=="
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100010, 
+                    "args_list": [
+                        1
                     ], 
                     "sub_type": 1
                 }
             ], 
-            "condition_type": "ITEM_HAS_TAG", 
-            "element_id": 343228505000026, 
+            "condition_type": "ANY_COMPARE", 
+            "element_id": 692154469000013, 
             "enable": true
         }
     ], 
     "enabled": true, 
     "event": [
         {
-            "args_list": [], 
-            "element_id": 343228505000004, 
+            "args_list": [
+                {
+                    "arg_type": 100008, 
+                    "args_list": [
+                        "ET_UPGRADE_UNIT"
+                    ], 
+                    "sub_type": "GENERIC_UNIT_EVENT"
+                }
+            ], 
+            "element_id": 694599782000002, 
             "enable": true, 
-            "event_type": "UNIT_ADD_ITEM_TO_BAR_EVENT"
+            "event_type": "GENERIC_UNIT_EVENT"
         }
     ], 
     "group_id": 0, 
     "p_trigger_id": null, 
-    "sub_trigger": {
-        "296808540": {
-            "action": [
-                {
-                    "action_type": "SET_VARIABLE", 
-                    "args_list": [
-                        {
-                            "arg_type": 100030, 
-                            "args_list": [
-                                {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        "FLOAT", 
-                                        "属性成长", 
-                                        "local"
-                                    ]
-                                }
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100000, 
-                            "args_list": [
-                                {
-                                    "arg_type": 100000, 
-                                    "args_list": [
-                                        {
-                                            "__tuple__": true, 
-                                            "items": [
-                                                "FLOAT", 
-                                                "属性成长", 
-                                                "local"
-                                            ]
-                                        }
-                                    ], 
-                                    "sub_type": 2
-                                }, 
-                                {
-                                    "arg_type": 100017, 
-                                    "args_list": [
-                                        "-"
-                                    ], 
-                                    "sub_type": 1
-                                }, 
-                                {
-                                    "arg_type": 100000, 
-                                    "args_list": [
-                                        {
-                                            "arg_type": 100032, 
-                                            "args_list": [], 
-                                            "sub_type": "GET_ITEM_KEY_FROM_EVENT"
-                                        }, 
-                                        {
-                                            "arg_type": 100300, 
-                                            "args_list": [
-                                                "ATTR_BASE"
-                                            ], 
-                                            "sub_type": 1
-                                        }, 
-                                        {
-                                            "arg_type": 100042, 
-                                            "args_list": [
-                                                "jQQ8cnqHEe+2v1VdnC564G"
-                                            ], 
-                                            "sub_type": 1
-                                        }
-                                    ], 
-                                    "sub_type": "GET_ITEM_KEY_ATTR"
-                                }
-                            ], 
-                            "sub_type": "ARITHMETIC_OPERATION"
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 346591323000003, 
-                    "enable": true
-                }, 
-                {
-                    "action_type": "UNREG_TRIGGER", 
-                    "args_list": [
-                        {
-                            "arg_type": 100178, 
-                            "args_list": [
-                                {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        "DYNAMIC_TRIGGER_INSTANCE", 
-                                        "属性成长_触发器", 
-                                        "local"
-                                    ]
-                                }
-                            ], 
-                            "sub_type": "VARIABLE"
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 346591323000014, 
-                    "enable": true
-                }
-            ], 
-            "call_enabled": true, 
-            "condition": [
-                {
-                    "args_list": [
-                        {
-                            "arg_type": 100031, 
-                            "args_list": [], 
-                            "sub_type": "TRIGGER_ITEM_ENTITY"
-                        }, 
-                        {
-                            "arg_type": 100003, 
-                            "args_list": [
-                                "属性成长"
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "condition_type": "ITEM_HAS_TAG", 
-                    "element_id": 346591323000002, 
-                    "enable": true
-                }
-            ], 
-            "enabled": false, 
-            "event": [
-                {
-                    "args_list": [], 
-                    "element_id": 346591323000001, 
-                    "enable": true, 
-                    "event_type": "UNIT_REMOVE_ITEM_FROM_BAR_EVENT"
-                }
-            ], 
-            "group_id": 0, 
-            "is_conf": true, 
-            "p_trigger_id": 343228505, 
-            "trigger_id": 296808540, 
-            "trigger_name": "子触发器_3", 
-            "valid": true, 
-            "var_data": [
-                {}, 
-                {}, 
-                []
-            ]
-        }, 
-        "1032040538": {
-            "action": [
-                {
-                    "action_type": "SET_ATTR", 
-                    "args_list": [
-                        {
-                            "arg_type": 100006, 
-                            "args_list": [], 
-                            "sub_type": "GET_UNIT_FROM_EVENT"
-                        }, 
-                        {
-                            "arg_type": 100300, 
-                            "args_list": [
-                                "ATTR_BASE"
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100042, 
-                            "args_list": [
-                                "strength"
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100000, 
-                            "args_list": [
-                                {
-                                    "arg_type": 100000, 
-                                    "args_list": [
-                                        {
-                                            "arg_type": 100006, 
-                                            "args_list": [], 
-                                            "sub_type": "GET_UNIT_FROM_EVENT"
-                                        }, 
-                                        {
-                                            "arg_type": 100301, 
-                                            "args_list": [
-                                                "ATTR_BASE"
-                                            ], 
-                                            "sub_type": 1
-                                        }, 
-                                        {
-                                            "arg_type": 100042, 
-                                            "args_list": [
-                                                "strength"
-                                            ], 
-                                            "sub_type": 1
-                                        }
-                                    ], 
-                                    "sub_type": "GET_UNIT_ATTR"
-                                }, 
-                                {
-                                    "arg_type": 100017, 
-                                    "args_list": [
-                                        "+"
-                                    ], 
-                                    "sub_type": 1
-                                }, 
-                                {
-                                    "arg_type": 100000, 
-                                    "args_list": [
-                                        {
-                                            "__tuple__": true, 
-                                            "items": [
-                                                "FLOAT", 
-                                                "属性成长", 
-                                                "local"
-                                            ]
-                                        }
-                                    ], 
-                                    "sub_type": 2
-                                }
-                            ], 
-                            "sub_type": "ARITHMETIC_OPERATION"
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 1032040538000016, 
-                    "enable": true
-                }, 
-                {
-                    "action_type": "SET_ATTR", 
-                    "args_list": [
-                        {
-                            "arg_type": 100006, 
-                            "args_list": [], 
-                            "sub_type": "GET_UNIT_FROM_EVENT"
-                        }, 
-                        {
-                            "arg_type": 100300, 
-                            "args_list": [
-                                "ATTR_BASE"
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100042, 
-                            "args_list": [
-                                "agility"
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100000, 
-                            "args_list": [
-                                {
-                                    "arg_type": 100000, 
-                                    "args_list": [
-                                        {
-                                            "arg_type": 100006, 
-                                            "args_list": [], 
-                                            "sub_type": "GET_UNIT_FROM_EVENT"
-                                        }, 
-                                        {
-                                            "arg_type": 100301, 
-                                            "args_list": [
-                                                "ATTR_BASE"
-                                            ], 
-                                            "sub_type": 1
-                                        }, 
-                                        {
-                                            "arg_type": 100042, 
-                                            "args_list": [
-                                                "agility"
-                                            ], 
-                                            "sub_type": 1
-                                        }
-                                    ], 
-                                    "sub_type": "GET_UNIT_ATTR"
-                                }, 
-                                {
-                                    "arg_type": 100017, 
-                                    "args_list": [
-                                        "+"
-                                    ], 
-                                    "sub_type": 1
-                                }, 
-                                {
-                                    "arg_type": 100000, 
-                                    "args_list": [
-                                        {
-                                            "__tuple__": true, 
-                                            "items": [
-                                                "FLOAT", 
-                                                "属性成长", 
-                                                "local"
-                                            ]
-                                        }
-                                    ], 
-                                    "sub_type": 2
-                                }
-                            ], 
-                            "sub_type": "ARITHMETIC_OPERATION"
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 1032040538000049, 
-                    "enable": true
-                }, 
-                {
-                    "action_type": "SET_ATTR", 
-                    "args_list": [
-                        {
-                            "arg_type": 100006, 
-                            "args_list": [], 
-                            "sub_type": "GET_UNIT_FROM_EVENT"
-                        }, 
-                        {
-                            "arg_type": 100300, 
-                            "args_list": [
-                                "ATTR_BASE"
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100042, 
-                            "args_list": [
-                                "intelligence"
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100000, 
-                            "args_list": [
-                                {
-                                    "arg_type": 100000, 
-                                    "args_list": [
-                                        {
-                                            "arg_type": 100006, 
-                                            "args_list": [], 
-                                            "sub_type": "GET_UNIT_FROM_EVENT"
-                                        }, 
-                                        {
-                                            "arg_type": 100301, 
-                                            "args_list": [
-                                                "ATTR_BASE"
-                                            ], 
-                                            "sub_type": 1
-                                        }, 
-                                        {
-                                            "arg_type": 100042, 
-                                            "args_list": [
-                                                "intelligence"
-                                            ], 
-                                            "sub_type": 1
-                                        }
-                                    ], 
-                                    "sub_type": "GET_UNIT_ATTR"
-                                }, 
-                                {
-                                    "arg_type": 100017, 
-                                    "args_list": [
-                                        "+"
-                                    ], 
-                                    "sub_type": 1
-                                }, 
-                                {
-                                    "arg_type": 100000, 
-                                    "args_list": [
-                                        {
-                                            "__tuple__": true, 
-                                            "items": [
-                                                "FLOAT", 
-                                                "属性成长", 
-                                                "local"
-                                            ]
-                                        }
-                                    ], 
-                                    "sub_type": 2
-                                }
-                            ], 
-                            "sub_type": "ARITHMETIC_OPERATION"
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 1032040538000078, 
-                    "enable": true
-                }
-            ], 
-            "call_enabled": true, 
-            "condition": [], 
-            "enabled": false, 
-            "event": [
-                {
-                    "args_list": [
-                        {
-                            "arg_type": 100006, 
-                            "args_list": [], 
-                            "sub_type": "GET_UNIT_FROM_EVENT"
-                        }, 
-                        {
-                            "arg_type": 100007, 
-                            "args_list": [
-                                "ET_UPGRADE_UNIT"
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "element_id": 1032040538000006, 
-                    "enable": true, 
-                    "event_type": "SPECIAL_UNIT_EVENT"
-                }
-            ], 
-            "group_id": 0, 
-            "is_conf": true, 
-            "p_trigger_id": 343228505, 
-            "sub_trigger_owner_set_var_action": {
-                "action_type": "SET_VARIABLE", 
-                "args_list": [
-                    {
-                        "arg_type": 100178, 
-                        "args_list": [
-                            {
-                                "__tuple__": true, 
-                                "items": [
-                                    "DYNAMIC_TRIGGER_INSTANCE", 
-                                    "属性成长_触发器", 
-                                    "local"
-                                ]
-                            }
-                        ], 
-                        "sub_type": "VARIABLE"
-                    }, 
-                    {
-                        "arg_type": 100178, 
-                        "args_list": [
-                            {
-                                "arg_type": 100019, 
-                                "args_list": [
-                                    1032040538
-                                ], 
-                                "sub_type": 1
-                            }
-                        ], 
-                        "sub_type": "REG_TRIGGER"
-                    }
-                ], 
-                "bp": false, 
-                "element_id": 343228505000034, 
-                "enable": true
-            }, 
-            "trigger_id": 1032040538, 
-            "trigger_name": "子触发器_2", 
-            "valid": true, 
-            "var_data": [
-                {}, 
-                {}, 
-                []
-            ]
-        }
-    }, 
-    "trigger_id": 343228505, 
+    "trigger_id": 694599782, 
     "trigger_name": "属性成长", 
     "valid": true, 
     "var_data": [
-        {
-            "DYNAMIC_TRIGGER_INSTANCE": {
-                "属性成长_触发器": 0
-            }, 
-            "FLOAT": {
-                "属性成长": 0.0
-            }, 
-            "INTEGER": {}
-        }, 
-        {
-            "属性成长": 0, 
-            "属性成长_触发器": 0
-        }, 
-        [
-            "属性成长", 
-            "属性成长_触发器"
-        ]
+        {}, 
+        {}, 
+        []
     ]
 }
