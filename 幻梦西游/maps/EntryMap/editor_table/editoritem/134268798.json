@@ -6,12 +6,25 @@
         "items": []
     }, 
     "attached_agility": 0.0, 
+    "attached_attack_phy": [
+        0.0, 
+        0.0, 
+        1000.0, 
+        0.0, 
+        0.0
+    ], 
     "attached_critical_chance": 0.0, 
     "attached_dodge_rate": 0.0, 
     "attached_hit_rate": 0.0, 
     "attached_hp_max": 0.0, 
     "attached_hp_rec": 0.0, 
-    "attached_intelligence": 0.0, 
+    "attached_intelligence": [
+        0.0, 
+        0.0, 
+        100.0, 
+        0.0, 
+        0.0
+    ], 
     "attached_passive_abilities": {
         "__tuple__": true, 
         "items": []
@@ -19,6 +32,13 @@
     "attached_pene_mag": 0.0, 
     "attached_pene_phy": 0.0, 
     "attached_strength": 0.0, 
+    "attached_vampire_phy": [
+        0.0, 
+        0.0, 
+        0.0, 
+        20.0, 
+        0.0
+    ], 
     "auto_use": false, 
     "base_color_mod": 1, 
     "base_tint_color": {
@@ -43,6 +63,7 @@
     "cur_charge": 0, 
     "cur_stack": 1, 
     "delete_on_discard": false, 
+    "desc": 1170420838, 
     "description": 1170420838, 
     "disable_overlapping": false, 
     "discard_enable": true, 
