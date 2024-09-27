@@ -1,6 +1,6 @@
 {
     "_custom_": true, 
-    "_ref_": 134271261, 
+    "_ref_": 134260513, 
     "attached_ability": {
         "__tuple__": true, 
         "items": []
@@ -10,7 +10,13 @@
     "attached_dodge_rate": 0.0, 
     "attached_hit_rate": 0.0, 
     "attached_hp_max": 0.0, 
-    "attached_hp_rec": 0.0, 
+    "attached_hp_rec": [
+        0.0, 
+        0.0, 
+        200.0, 
+        0.0, 
+        0.0
+    ], 
     "attached_intelligence": 0.0, 
     "attached_passive_abilities": {
         "__tuple__": true, 
@@ -36,14 +42,21 @@
         "items": []
     }, 
     "cd_type": "", 
-    "compose_list": {
-        "__tuple__": true, 
-        "items": []
-    }, 
+    "compose_list": [
+        [
+            134256725, 
+            1
+        ], 
+        [
+            134244021, 
+            1
+        ]
+    ], 
     "cur_charge": 0, 
     "cur_stack": 1, 
     "delete_on_discard": false, 
-    "description": -1462605285, 
+    "desc": -1971841878, 
+    "description": -1971841878, 
     "disable_overlapping": false, 
     "discard_enable": true, 
     "discard_when_dead": false, 
@@ -61,10 +74,10 @@
     "fresnel_emissive_color_strength": 1, 
     "fresnel_exp": 10, 
     "hp_max": 100, 
-    "icon": 109024, 
+    "icon": 120345, 
     "init_stock": 5, 
     "item_billboard_type": 0, 
-    "key": 134271261, 
+    "key": 134260513, 
     "kv": {}, 
     "level": 1, 
     "material_alpha": 0, 
@@ -83,7 +96,7 @@
     "maximum_stacking": 5, 
     "model": 10022, 
     "model_opacity": 1, 
-    "name": 1081900062, 
+    "name": -1098263652, 
     "precondition_list": {
         "__tuple__": true, 
         "items": []
@@ -105,9 +118,9 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "uid": "134271261", 
+    "uid": "134260513", 
     "use_base_tint_color": false, 
     "use_consume": 1, 
-    "use_fresnel": 0, 
-    "use_virtual_light": 0
+    "use_fresnel": false, 
+    "use_virtual_light": false
 }
