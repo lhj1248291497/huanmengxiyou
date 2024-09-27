@@ -1333,17 +1333,7 @@
     }, 
     "collision_points": {
         "__tuple__": true, 
-        "items": [
-            [
-                -2, 
-                -2
-            ], 
-            [
-                1, 
-                1
-            ], 
-            0
-        ]
+        "items": []
     }, 
     "description": 1766288317, 
     "effect_list": [], 
@@ -1360,7 +1350,11 @@
     }, 
     "fresnel_emissive_color_strength": 1, 
     "fresnel_exp": 10, 
+    "height_num": 8, 
+    "height_offset": 0.0, 
     "icon": 100000, 
+    "is_x_offset": false, 
+    "is_z_offset": false, 
     "key": 134231215, 
     "kv": {}, 
     "material_alpha": 0, 
@@ -1388,5 +1382,7 @@
     "use_base_tint_color": false, 
     "use_fresnel": 0, 
     "use_physics": false, 
-    "use_virtual_light": 0
+    "use_virtual_light": 0, 
+    "width_num": 8, 
+    "width_offset": 0.0
 }
