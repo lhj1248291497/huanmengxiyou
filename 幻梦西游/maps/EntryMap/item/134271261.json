@@ -1,10 +1,5 @@
 {
-    "local_variable": {
-        "655454209": {
-            "variable_dict": {}, 
-            "variable_length_dict": {}
-        }
-    }, 
+    "local_variable": {}, 
     "trigger_dict": {
         "655454209": {
             "action": [], 
