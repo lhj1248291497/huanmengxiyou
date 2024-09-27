@@ -383,6 +383,78 @@
                 ]
             }, 
             "type": 1024
+        }, 
+        "10096": {
+            "id": 10096, 
+            "name": "\u70b9", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -24, 
+                        3852722176
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        3, 
+                        1931003904
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10097": {
+            "id": 10097, 
+            "name": "\u70b9", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -23, 
+                        119078912
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        5, 
+                        3296452608
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10098": {
+            "id": 10098, 
+            "name": "\u70b9", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -24, 
+                        3950919680
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        8, 
+                        102965248
+                    ]
+                ]
+            }, 
+            "type": 1024
         }
     }, 
     "2048": {
