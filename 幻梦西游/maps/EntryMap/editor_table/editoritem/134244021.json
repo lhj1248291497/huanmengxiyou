@@ -110,7 +110,9 @@
     "suffix": "", 
     "tags": {
         "__tuple__": true, 
-        "items": []
+        "items": [
+            "\u5347\u7ea7/\u5408\u6210"
+        ]
     }, 
     "uid": "134244021", 
     "use_base_tint_color": false, 

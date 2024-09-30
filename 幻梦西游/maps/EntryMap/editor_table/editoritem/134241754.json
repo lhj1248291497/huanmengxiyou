@@ -49,10 +49,16 @@
         "items": []
     }, 
     "cd_type": "", 
-    "compose_list": {
-        "__tuple__": true, 
-        "items": []
-    }, 
+    "compose_list": [
+        [
+            134277474, 
+            1
+        ], 
+        [
+            134252739, 
+            1
+        ]
+    ], 
     "cur_charge": 0, 
     "cur_stack": 1, 
     "delete_on_discard": false, 
@@ -60,7 +66,7 @@
     "description": 102215078, 
     "disable_overlapping": false, 
     "discard_enable": true, 
-    "discard_when_dead": true, 
+    "discard_when_dead": false, 
     "drop_stay_time": 9999, 
     "effect_list": {}, 
     "fresnel_color": {
@@ -112,7 +118,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "stack_type": 2, 
+    "stack_type": 0, 
     "start_rft": 1, 
     "suffix": "", 
     "tags": {

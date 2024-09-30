@@ -111,7 +111,9 @@
     "suffix": "", 
     "tags": {
         "__tuple__": true, 
-        "items": []
+        "items": [
+            "\u88c5\u5907"
+        ]
     }, 
     "uid": "134245981", 
     "use_base_tint_color": false, 
